@@ -3,3 +3,5 @@ It is a "known issue" that the styling is inline.
 Next version will extract the CSS.
 
 Next version, CSSexternalized
+
+I keep struggling to synchronize my files  between local and remote, clearly because I haven't figured git out. 
